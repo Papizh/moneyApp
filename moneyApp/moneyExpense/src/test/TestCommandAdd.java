@@ -40,7 +40,7 @@ public class TestCommandAdd {
 	public void test() {
 		List<String> testData = new ArrayList<>();
 		testData.add("add");
-		testData.add("2017-12-04");
+		testData.add("2018-06-20");
 		testData.add("20");
 		testData.add("USD");
 		testData.add("Horn");
