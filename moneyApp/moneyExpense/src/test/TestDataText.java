@@ -24,6 +24,5 @@ public class TestDataText {
 		
 		assertEquals(" 34.05 AUD Jar", dataText.toString());
 		
-		//fail("Not yet implemented");
 	}
 }
